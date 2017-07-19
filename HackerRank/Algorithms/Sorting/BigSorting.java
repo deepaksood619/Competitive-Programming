@@ -1,27 +1,46 @@
-// https://www.hackerrank.com/challenges/big-sorting
-import java.math.BigInteger;
-import java.util.*;
+import java.util.Scanner;
+import java.util.Arrays;
+import java.util.Comparator;
 
-public class BigSorting {
+class BigSorting2 {
 	public static void main(String[] args) {
-		Scanner scanner = new Scanner(System.in);
+		Scanner in = new Scanner(System.in);
+
+		int n = in.nextInt();
 		
-		int n = scanner.nextInt();
-		
-		List<BigInteger> arr = new ArrayList();
-		for(int i = 0; i < n; i++) {
-			String item = scanner.next();
-			BigInteger bigItem = new BigInteger(item);
-			arr.add(bigItem);
-		}
-		
-		Collections.sort(arr);
+		String[] unsorted = new String[n];
 		
 		for(int i = 0; i < n; i++) {
-			System.out.println(arr.get(i));
+			unsorted[i] = in.next();
 		}
 		
+		Arrays.sort(unsorted, new Comparator<String>() {
+			@Override
+			public int compare(String a, String b) {
+				return StringAsIntegerCompare(a, b);
+			}
+		});
+		
+		for(int i = 0; i < n; i++) {
+			System.out.println(unsorted[i]);
+		}
+	}
+	
+	static int StringAsIntegerCompare(String s1, String s2) {
+		if(s1.length() > s2.length()) {
+			return 1;
+		}
+		if(s1.length() < s2.length()) {
+			return -1;
+		}
+		for(int i = 0; i < s1.length(); i++) {
+			if((int)s1.charAt(i) > (int)s2.charAt(i)) {
+				return 1;
+			}
+			if((int)s1.charAt(i) < (int)s2.charAt(i)) {
+				return -1;
+			}
+		}
+		return 0;
 	}
 }
-		
-		
