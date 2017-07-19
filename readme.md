@@ -25,6 +25,7 @@ This repostitory contains code for following-
 | 3 | Adjacency Matrix Undirected | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Graph%20Algorithms/AdjacencyMatrixUndirected.java) | | | |
 | 4 | BFS Directed | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Graph%20Algorithms/BFSDirected.java) | | | |
 | 5 | BFS Undirected | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Graph%20Algorithms/BFSUndirected.java) | | | |
+| 6 | [Connected Components Undirected Graph](http://www.geeksforgeeks.org/connected-components-in-an-undirected-graph/) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Graph%20Algorithms/ConnectedComponentsUndirectedGraph.java) | O(|V|) | O(|V|) |
       
 #### Basic Sorting Algorithms
 | #   | Title | Solution | Time | Space
