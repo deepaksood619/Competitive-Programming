@@ -1,8 +1,10 @@
+// https://www.hackerrank.com/challenges/big-sorting/problem
+
 import java.util.Scanner;
 import java.util.Arrays;
 import java.util.Comparator;
 
-class BigSorting2 {
+class BigSorting {
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
 
