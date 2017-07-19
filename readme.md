@@ -47,10 +47,16 @@ This repostitory contains code for following-
 #### HackerRank Sorting
 | #   | Problem | Solution | Time | Space | Difficulty | Points
 |:---:|-------- |:--------:|:----:|:-----:|:----------:|:------|
+| 1 | [Big Sorting](https://www.hackerrank.com/challenges/big-sorting) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerRank/Algorithms/Sorting/BigSorting.java) | | | Easy | 20 |
 
 #### HackerRank Strings
 | #   | Problem | Solution | Time | Space | Difficulty | Points
 |:---:|-------- |:--------:|:----:|:-----:|:----------:|:------|
+| 1 | [Beautiful Binary String](https://www.hackerrank.com/challenges/beautiful-binary-string) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerRank/Algorithms/Strings/BeautifulBinaryString.java) | | | Easy | 20 |
+| 2 | [Gemstones](https://www.hackerrank.com/challenges/gem-stones) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerRank/Algorithms/Strings/Gemstones.java) | | | Easy | 20 |
+| 3 | [Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerRank/Algorithms/Strings/MakingAnagrams.java) | | | Easy | 30 |
+| 4 | [Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerRank/Algorithms/Strings/MarsExploration.java) | | | Easy | 15 |
+| 5 | [The Love Letter Mystery](https://www.hackerrank.com/challenges/the-love-letter-mystery) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerRank/Algorithms/Strings/TheLoveLetterMystery.java) | | | Easy | 20 |
 
 ---
 
