@@ -10,10 +10,9 @@ This repostitory contains code for following-
 
 ---
 
-## Problems - Solutions
-### Basic Concepts
-#### Algorithms
-##### 1. Graph Algorithms
+# Problems - Solutions
+## Basic Concepts
+#### Graph Algorithms
 
 | #   | Title | Solution | Time | Space
 |:---:|------ |:--------:|:----:|:----:|
@@ -23,7 +22,7 @@ This repostitory contains code for following-
 | 4 | BFS Directed | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Graph%20Algorithms/BFSDirected.java) | | | |
 | 5 | BFS Undirected | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Graph%20Algorithms/BFSUndirected.java) | | | |
       
-##### 2. Sorting Algorithms
+#### Sorting Algorithms
 | #   | Title | Solution | Time | Space
 |:---:|------ |:--------:|:----:|:----:|
 | 1 | Bubble Sort | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Sorting%20Algorithms/BubbleSort.java) | | | |
