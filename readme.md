@@ -11,6 +11,7 @@ This repostitory contains code for following-
    1. Algorithms
       1. [HackerRank Sorting](https://github.com/deepaksood619/Competitive-Programming#hackerrank-sorting)
       2. [HackerRank Strings](https://github.com/deepaksood619/Competitive-Programming#hackerrank-strings)
+	  3. [HackerRank Graph Theory](https://github.com/deepaksood619/Competitive-Programming#hackerrank-graph-theory)
 
 ---
 
@@ -58,6 +59,11 @@ This repostitory contains code for following-
 | 3 | [Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerRank/Algorithms/Strings/MakingAnagrams.java) | | | Easy | 30 |
 | 4 | [Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerRank/Algorithms/Strings/MarsExploration.java) | | | Easy | 15 |
 | 5 | [The Love Letter Mystery](https://www.hackerrank.com/challenges/the-love-letter-mystery) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerRank/Algorithms/Strings/TheLoveLetterMystery.java) | | | Easy | 20 |
+
+### HackerRank Graph Theory
+| #   | Problem | Solution | Time | Space | Difficulty | Points
+|:---:|-------- |:--------:|:----:|:-----:|:----------:|:------|
+| 1 | [Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerRank/Algorithms/Graph%20Theory/RoadsAndLibraries.java) | O(&#124;V&#124;) | O(&#124;V&#124;) | Medium | 30 |
 
 ---
 
