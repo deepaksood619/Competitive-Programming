@@ -6,6 +6,7 @@ This repostitory contains code for following-
       1. [Graph Algorithms](https://github.com/deepaksood619/Competitive-Programming#graph-algorithms)
       2. [Sorting Algorithms](https://github.com/deepaksood619/Competitive-Programming#sorting-algorithms)
 2. [GeeksForGeeks](http://www.geeksforgeeks.org/)
+   1. [Algorithms](https://github.com/deepaksood619/Competitive-Programming#geeks-for-geeks-algorithms)
 3. [HackerRank](https://www.hackerrank.com/)
 
 ---
@@ -30,6 +31,14 @@ This repostitory contains code for following-
 | 3 | Insertion Sort | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Sorting%20Algorithms/InsertionSort.java) | | | |      
 | 4 | Radix Sort | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Sorting%20Algorithms/RadixSort.java) | | | |
 | 5 | Selection Sort | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/SelectionSort.java) | | | |
+
+## Geeks For Geeks Algorithms
+| #   | Problem | Solution | Time | Space
+|:---:|------ |:--------:|:----:|:----:|
+| 1 | [Largest Even Number](http://practice.geeksforgeeks.org/problems/largest-even-number/0) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/GeeksForGeeks/Algorithms/LargestEvenNumber.java) | | | |
+| 2 | [Palindrome String](http://practice.geeksforgeeks.org/problems/palindrome-string/0) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/GeeksForGeeks/Algorithms/PalindromeString.java) | | | |
+| 3 | [Sum Of Digit Is Palindrome Or Not](http://practice.geeksforgeeks.org/problems/sum-of-digit-is-pallindrome-or-not/0) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/GeeksForGeeks/Algorithms/SumOfDigitIsPalindromeOrNot.java) | | | |
+| 4 | [X Total Shapes](http://practice.geeksforgeeks.org/problems/x-total-shapes/0) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/GeeksForGeeks/Algorithms/XTotalShapes.java) | | | |
 
 ---
 
