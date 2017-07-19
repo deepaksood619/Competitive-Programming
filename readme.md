@@ -3,8 +3,8 @@
 This repostitory contains code for following-
 1. Basic Concepts -
    1. Algorithms
-      1. [Graph Algorithms](https://github.com/deepaksood619/Competitive-Programming/blob/master/readme.md#graph-algorithms)
-      2. [Sorting Algorithms](https://github.com/deepaksood619/Competitive-Programming/blob/master/readme.md#sorting-algorithms)
+      1. [Graph Algorithms](https://github.com/deepaksood619/Competitive-Programming#graph-algorithms)
+      2. [Sorting Algorithms](https://github.com/deepaksood619/Competitive-Programming#sorting-algorithms)
 2. [GeeksForGeeks](http://www.geeksforgeeks.org/)
 3. [HackerRank](https://www.hackerrank.com/)
 
