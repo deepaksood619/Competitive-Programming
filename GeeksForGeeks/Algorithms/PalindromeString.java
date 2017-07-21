@@ -3,6 +3,8 @@
 /*
 	1. one solution is to check from end and front and compare characters till middle
 	2. second solution is to reverse the string and compare the reversed and orginal string
+	
+	used 1st method, less time complexity
 */
 
 import java.util.Scanner;

@@ -1,6 +1,13 @@
 // http://practice.geeksforgeeks.org/problems/largest-even-number/0
+
 // 284918227595347128185772596567355423933679973674289434574127522843135379266
+
 // print largest even number
+/*
+	used counting sort, and then print from largest to smallest 
+	with saving one smallest even number i.e. 8, 6, 4, 2, 0
+	and then printing the smallest even number at last if present
+*/
 
 import java.util.Scanner;
 
