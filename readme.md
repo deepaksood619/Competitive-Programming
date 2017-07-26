@@ -62,6 +62,7 @@ This repostitory contains code for following-
 | 4 | [Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerRank/Algorithms/Strings/MarsExploration.java) | | | Easy | 15 |
 | 5 | [The Love Letter Mystery](https://www.hackerrank.com/challenges/the-love-letter-mystery) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerRank/Algorithms/Strings/TheLoveLetterMystery.java) | | | Easy | 20 |
 | 6 | [Game of Thrones 1](https://www.hackerrank.com/challenges/game-of-thrones) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerRank/Algorithms/Strings/GameOfThrones1.java) | O(&#124;N&#124;) | O(&#124;1&#124;) | Easy | 30 |
+| 7 | [Anagram](https://www.hackerrank.com/challenges/anagram) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerRank/Algorithms/Strings/Anagram.java) | O(&#124;N&#124;) | O(&#124;1&#124;) | Easy | 25 |
 
 ### HackerRank Graph Theory
 | #   | Problem | Solution | Time | Space | Difficulty | Points
