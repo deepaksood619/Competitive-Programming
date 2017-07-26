@@ -44,6 +44,8 @@ This repostitory contains code for following-
 | 2 | [Palindrome String](http://practice.geeksforgeeks.org/problems/palindrome-string/0) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/GeeksForGeeks/Algorithms/PalindromeString.java) | | | |
 | 3 | [Sum Of Digit Is Palindrome Or Not](http://practice.geeksforgeeks.org/problems/sum-of-digit-is-pallindrome-or-not/0) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/GeeksForGeeks/Algorithms/SumOfDigitIsPalindromeOrNot.java) | | | |
 | 4 | [X Total Shapes](http://practice.geeksforgeeks.org/problems/x-total-shapes/0) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/GeeksForGeeks/Algorithms/XTotalShapes.java) | | | |
+| 5 | [Floyd Tortoise and Hare](http://www.geeksforgeeks.org/detect-loop-in-a-linked-list/) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/GeeksForGeeks/Algorithms/FloydTortoiseAndHare.java) | O(&#124;N&#124;) | | O(&#124;1&#124;) |
+
 
 ## HackerRank
 #### HackerRank Sorting
