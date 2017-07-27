@@ -71,6 +71,11 @@ This repostitory contains code for following-
 | 1 | [Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerRank/Algorithms/Graph%20Theory/RoadsAndLibraries.java) | O(&#124;V&#124;) | O(&#124;V&#124;) | Medium | 30 |
 | 2 | [Journey to the Moon](https://www.hackerrank.com/challenges/journey-to-the-moon) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerRank/Algorithms/Graph%20Theory/JourneyToTheMoon.java) | O(&#124;V + E&#124;) | O(&#124;V&#124;) | Medium | 50 |
 
+### HackerRank Dynamic Programming
+| #   | Problem | Solution | Time | Space | Difficulty | Points
+|:---:|-------- |:--------:|:----:|:-----:|:----------:|:------|
+| 1 | [Fibonacci Modified](https://www.hackerrank.com/challenges/fibonacci-modified) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerRank/Algorithms/Dynamic%20Programming/FibonacciModified.java) | O(&#124;N&#124;) | O(&#124;1&#124;) | Medium | 45 |
+
 ---
 
 Save everything in your drive -
