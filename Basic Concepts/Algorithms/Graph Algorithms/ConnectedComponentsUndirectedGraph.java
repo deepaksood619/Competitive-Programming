@@ -1,9 +1,11 @@
 // http://www.geeksforgeeks.org/connected-components-in-an-undirected-graph/
 
 /*
+	using bfs
+	
 	SpaceComplexity - O(|V|), since at worst case you need to hold all vertices in the queue.
 	
-	TimeComplexity - O(|V|) where |V| is the number of nodes, you need to traverse all nodes. 
+	TimeComplexity - O(|V + E|) where |V| is the number of nodes, you need to traverse all nodes. 
 */
 
 import java.util.LinkedList;

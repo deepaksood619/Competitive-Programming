@@ -26,7 +26,7 @@ This repostitory contains code for following-
 | 3 | Adjacency Matrix Undirected | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Graph%20Algorithms/AdjacencyMatrixUndirected.java) | | | |
 | 4 | BFS Directed | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Graph%20Algorithms/BFSDirected.java) | | | |
 | 5 | BFS Undirected | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Graph%20Algorithms/BFSUndirected.java) | | | |
-| 6 | [Connected Components Undirected Graph](http://www.geeksforgeeks.org/connected-components-in-an-undirected-graph/) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Graph%20Algorithms/ConnectedComponentsUndirectedGraph.java) | O(&#124;V&#124;) | O(&#124;V&#124;) |
+| 6 | [Connected Components Undirected Graph](http://www.geeksforgeeks.org/connected-components-in-an-undirected-graph/) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Graph%20Algorithms/ConnectedComponentsUndirectedGraph.java) | O(&#124;V + E&#124;) | O(&#124;V&#124;) |
       
 #### Basic Sorting Algorithms
 | #   | Title | Solution | Time | Space
@@ -69,6 +69,7 @@ This repostitory contains code for following-
 | #   | Problem | Solution | Time | Space | Difficulty | Points
 |:---:|-------- |:--------:|:----:|:-----:|:----------:|:------|
 | 1 | [Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerRank/Algorithms/Graph%20Theory/RoadsAndLibraries.java) | O(&#124;V&#124;) | O(&#124;V&#124;) | Medium | 30 |
+| 2 | [Journey to the Moon](https://www.hackerrank.com/challenges/journey-to-the-moon) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerRank/Algorithms/Graph%20Theory/JourneyToTheMoon.java) | O(&#124;V + E&#124;) | O(&#124;V&#124;) | Medium | 50 |
 
 ---
 
