@@ -29,13 +29,14 @@ This repostitory contains code for following-
 | 6 | [Connected Components Undirected Graph](http://www.geeksforgeeks.org/connected-components-in-an-undirected-graph/) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Graph%20Algorithms/ConnectedComponentsUndirectedGraph.java) | O(&#124;V + E&#124;) | O(&#124;V&#124;) |
       
 #### Basic Sorting Algorithms
-| #   | Title | Solution | Time | Space
-|:---:|------ |:--------:|:----:|:----:|
-| 1 | Bubble Sort | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Sorting%20Algorithms/BubbleSort.java) | | | |
-| 2 | Counting Sort | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Sorting%20Algorithms/CountingSort.java) | | | |
-| 3 | Insertion Sort | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Sorting%20Algorithms/InsertionSort.java) | | | |      
-| 4 | Radix Sort | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Sorting%20Algorithms/RadixSort.java) | | | |
-| 5 | Selection Sort | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/SelectionSort.java) | | | |
+| #   | Title | Solution | Time | Space | Notes |
+|:---:|------ |:--------:|:----:|:-----:|:-----:|
+| 1 | Bubble Sort | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Sorting%20Algorithms/BubbleSort.java) | W(&#124;N&#124;) O(&#124;N*N&#124;) | O(&#124;1&#124;) | In-Place, Stable |
+| 2 | Recursive Bubble Sort | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Sorting%20Algorithms/RecursiveBubbleSort.java) | W(&#124;N&#124;) O(&#124;N*N&#124;) | O(&#124;1&#124;) | In-Place, Stable |
+| 3 | Counting Sort | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Sorting%20Algorithms/CountingSort.java) | | | |
+| 4 | Insertion Sort | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Sorting%20Algorithms/InsertionSort.java) | W(&#124;N&#124;) O(&#124;N*N&#124;) | O(&#124;1&#124;) | In-Place, Stable, Online |
+| 5 | Radix Sort | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Sorting%20Algorithms/RadixSort.java) | | | |
+| 6 | Selection Sort | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/SelectionSort.java) | | | |
 
 ## Geeks For Geeks Algorithms
 | #   | Problem | Solution | Time | Space
@@ -52,6 +53,7 @@ This repostitory contains code for following-
 | #   | Problem | Solution | Time | Space | Difficulty | Points
 |:---:|-------- |:--------:|:----:|:-----:|:----------:|:------|
 | 1 | [Big Sorting](https://www.hackerrank.com/challenges/big-sorting) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerRank/Algorithms/Sorting/BigSorting.java) | | | Easy | 20 |
+| 2 | [Insertion Sort 1](https://www.hackerrank.com/challenges/insertionsort1) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerRank/Algorithms/Sorting/InsertionSort1.java) | O(&#124;N*N&#124;) | O(&#124;1&#124;) | Easy | 30 |
 
 #### HackerRank Strings
 | #   | Problem | Solution | Time | Space | Difficulty | Points

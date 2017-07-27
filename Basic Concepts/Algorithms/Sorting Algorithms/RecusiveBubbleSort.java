@@ -1,4 +1,4 @@
-// http://www.geeksforgeeks.org/bubble-sort/
+// http://www.geeksforgeeks.org/recursive-bubble-sort/
 
 /*
 	Optimized Bubble Sort - Stop the algorithm if inner loop didn’t cause any swap.
@@ -16,37 +16,39 @@
 	Stable: Yes
 */
 
-class BubbleSort {
+class RecursiveBubbleSort {
+	
+	static void sort(int[] arr, int n) {
+		if(n == 1)
+			return;
+		
+		boolean swapped = false;
+		for(int i = 0; i < n-1; i++) {
+			if(arr[i] > arr[i+1]) {
+				swapped = true;
+				int t = arr[i];
+				arr[i] = arr[i+1];
+				arr[i+1] = t;
+			}
+		}
+		
+		if(!swapped) {
+			return;
+		}
+		sort(arr, n-1);
+	}
+	
 	public static void main(String[] args) {
 		System.out.println("Bubble Sort");
 		
-		int[] arr = new int[] {1, 2, 3, 4, 5, 6, 7, 8};
+		int[] arr = new int[] {8, 2, 3, 4, 5, 6, 7, 1};
 		
 		for(int i = 0; i < arr.length; i++) {
 			System.out.print(arr[i] + " ");
 		}
-		
 		System.out.println();
 		
-		int n = arr.length;
-		
-		boolean swapped = false;
-		
-		for(int i = 0; i < n-1; i++) {
-			for(int j = 0; j < n-i-1; j++) {
-				if(arr[j] > arr[j+1]) {
-					swapped = true;
-					int t = arr[j];
-					arr[j] = arr[j+1];
-					arr[j+1] = t;
-				}
-			}
-			
-			if(!swapped) {
-				System.out.println("Already Sorted");
-				break;
-			}			
-		}
+		sort(arr, arr.length);
 		
 		for(int i = 0; i < arr.length; i++) {
 			System.out.print(arr[i] + " ");
