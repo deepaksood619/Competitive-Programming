@@ -54,6 +54,7 @@ This repostitory contains code for following-
 |:---:|-------- |:--------:|:----:|:-----:|:----------:|:------|
 | 1 | [Big Sorting](https://www.hackerrank.com/challenges/big-sorting) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerRank/Algorithms/Sorting/BigSorting.java) | | | Easy | 20 |
 | 2 | [Insertion Sort 1](https://www.hackerrank.com/challenges/insertionsort1) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerRank/Algorithms/Sorting/InsertionSort1.java) | O(&#124;N*N&#124;) | O(&#124;1&#124;) | Easy | 30 |
+| 3 | [Insertion Sort 2](https://www.hackerrank.com/challenges/insertionsort2) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerRank/Algorithms/Sorting/InsertionSort2.java) | O(&#124;N*N&#124;) | O(&#124;1&#124;) | Easy | 30 |
 
 #### HackerRank Strings
 | #   | Problem | Solution | Time | Space | Difficulty | Points
