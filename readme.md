@@ -35,8 +35,9 @@ This repostitory contains code for following-
 | 2 | Recursive Bubble Sort | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Sorting%20Algorithms/RecursiveBubbleSort.java) | W(&#124;N&#124;) O(&#124;N*N&#124;) | O(&#124;1&#124;) | In-Place, Stable |
 | 3 | Counting Sort | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Sorting%20Algorithms/CountingSort.java) | | | |
 | 4 | Insertion Sort | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Sorting%20Algorithms/InsertionSort.java) | W(&#124;N&#124;) O(&#124;N*N&#124;) | O(&#124;1&#124;) | In-Place, Stable, Online |
-| 5 | Radix Sort | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Sorting%20Algorithms/RadixSort.java) | | | |
-| 6 | Selection Sort | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/SelectionSort.java) | | | |
+| 5 | Recursive Insertion Sort | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Sorting%20Algorithms/RecursiveInsertionSort.java) | W(&#124;N&#124;) O(&#124;N*N&#124;) | O(&#124;1&#124;) | In-Place, Stable, Online |
+| 6 | Radix Sort | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Sorting%20Algorithms/RadixSort.java) | | | |
+| 7 | Selection Sort | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/SelectionSort.java) | | | |
 
 ## Geeks For Geeks Algorithms
 | #   | Problem | Solution | Time | Space
