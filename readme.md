@@ -38,6 +38,8 @@ This repostitory contains code for following-
 | 5 | Recursive Insertion Sort | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Sorting%20Algorithms/RecursiveInsertionSort.java) | W(&#124;N&#124;) O(&#124;N*N&#124;) | O(&#124;1&#124;) | In-Place, Stable, Online |
 | 6 | Radix Sort | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Sorting%20Algorithms/RadixSort.java) | | | |
 | 7 | Selection Sort | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/SelectionSort.java) | | | |
+| 8 | Merge Sort | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Sorting%20Algorithms/MergeSort.java) | O(&#124;N*log(N)&#124;) | O(&#124;N&#124;) | Stable |
+
 
 ## Geeks For Geeks Algorithms
 | #   | Problem | Solution | Time | Space
