@@ -4,6 +4,8 @@
 Like QuickSort, Merge Sort is a Divide and Conquer algorithm. 
 It divides input array in two halves, calls itself for the two halves and then merges the two sorted halves
 
+Merge sort is often preferred for sorting a linked list. The slow random-access performance of a linked list makes some other algorithms (such as quicksort) perform poorly, and others (such as heapsort) completely impossible.
+
 Time Complexity:
 Merge Sort is a recursive algorithm and time complexity can be expressed as following recurrence relation.
 T(n) = 2T(n/2) + \Theta(n)

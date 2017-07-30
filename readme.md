@@ -5,6 +5,7 @@ This repostitory contains code for following-
    1. Algorithms
       1. [Basic Graph Algorithms](https://github.com/deepaksood619/Competitive-Programming#basic-graph-algorithms)
       2. [Basic Sorting Algorithms](https://github.com/deepaksood619/Competitive-Programming#basic-sorting-algorithms)
+	  3. [Basic Recursion Algorithms](https://github.com/deepaksood619/Competitive-Programming#basic-recursion-algorithms)
 2. [GeeksForGeeks](http://www.geeksforgeeks.org/)
    1. [Algorithms](https://github.com/deepaksood619/Competitive-Programming#geeks-for-geeks-algorithms)
 3. [HackerRank](https://www.hackerrank.com/)
@@ -12,6 +13,11 @@ This repostitory contains code for following-
       1. [HackerRank Sorting](https://github.com/deepaksood619/Competitive-Programming#hackerrank-sorting)
       2. [HackerRank Strings](https://github.com/deepaksood619/Competitive-Programming#hackerrank-strings)
 	  3. [HackerRank Graph Theory](https://github.com/deepaksood619/Competitive-Programming#hackerrank-graph-theory)
+	  4. [HackerRank Dynamic Programming](https://github.com/deepaksood619/Competitive-Programming#hackerrank-dynamic-programming)
+4. [HackerEarth](https://www.hackerearth.com/)
+	1. [HackerEarth](https://github.com/deepaksood619/Competitive-Programming#hackerearth)
+5. [CodeChef](https://www.codechef.com/)
+6. [LeetCode](https://leetcode.com/)
 
 ---
 
@@ -39,6 +45,15 @@ This repostitory contains code for following-
 | 6 | Radix Sort | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Sorting%20Algorithms/RadixSort.java) | | | |
 | 7 | Selection Sort | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/SelectionSort.java) | | | |
 | 8 | Merge Sort | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Sorting%20Algorithms/MergeSort.java) | O(&#124;N*log(N)&#124;) | O(&#124;N&#124;) | Stable |
+| 8 | Merge Sort Linked List| [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Sorting%20Algorithms/MergeSortLinkedList.java) | O(&#124;N*log(N)&#124;) | O(&#124;N&#124;) | Stable |
+
+#### Basic Recursion Algorithms
+| #   | Title | Solution | Time | Space | Notes |
+|:---:|------ |:--------:|:----:|:-----:|:-----:|
+| 1 | Factorial | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Recursion/Factorial.java) | O(&#124;N*N&#124;) | O(&#124;1&#124;) | |
+| 2 | [Permutation of a given String](http://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Recursion/PermutationsOfAGivenString.java) | | | |
+| 3 | [Selection Sort Recursive](http://www.geeksforgeeks.org/practice-questions-for-recursion/) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Recursion/SelectionSortRecursive.java) | | | |
+
 
 
 ## Geeks For Geeks Algorithms
@@ -82,6 +97,14 @@ This repostitory contains code for following-
 |:---:|-------- |:--------:|:----:|:-----:|:----------:|:------|
 | 1 | [Fibonacci Modified](https://www.hackerrank.com/challenges/fibonacci-modified) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerRank/Algorithms/Dynamic%20Programming/FibonacciModified.java) | O(&#124;N&#124;) | O(&#124;1&#124;) | Medium | 45 |
 
+## HackerEarth
+| #   | Problem | Solution | Time | Space |
+|:---:|-------- |:--------:|:----:|:-----:|
+| 1 | Alex And Priority Queues | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerEarth/AlexAndPriorityQueues.java) | | |
+| 2 | Alex And Requests | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerEarth/AlexAndRequests.java) | | |
+| 3 | Disconnected Graph | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerEarth/DisconnectedGraph.java) | | |
+| 4 | Sum of Subsets | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerEarth/SumOfSubsets.java) | | |
+
 ---
 
 Save everything in your drive -
@@ -92,4 +115,7 @@ Save everything in your drive -
 Follow my progress -
 1. [Hacker Rank](https://www.hackerrank.com/deepaksood619)
 2. [Geeks for Geeks](http://practice.geeksforgeeks.org/user-profile.php?user=Deepak%20Sood)
+3. [Hacker Earth](https://www.hackerearth.com/@deepaksood619)
+4. [Code Chef](https://www.codechef.com/users/deepaksood619)
+5. [Leet Code](https://leetcode.com/deepaksood619/)
 3. [Linkedin](linkedin.com/in/deepaksood619)
