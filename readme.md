@@ -118,4 +118,4 @@ Follow my progress -
 3. [Hacker Earth](https://www.hackerearth.com/@deepaksood619)
 4. [Code Chef](https://www.codechef.com/users/deepaksood619)
 5. [Leet Code](https://leetcode.com/deepaksood619/)
-3. [Linkedin](linkedin.com/in/deepaksood619)
+3. [Linkedin](https://linkedin.com/in/deepaksood619)
