@@ -96,7 +96,7 @@ This repostitory contains code for following-
 | #   | Problem | Solution | Time | Space | Difficulty | Points
 |:---:|-------- |:--------:|:----:|:-----:|:----------:|:------|
 | 1 | [Fibonacci Modified](https://www.hackerrank.com/challenges/fibonacci-modified) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerRank/Algorithms/Dynamic%20Programming/FibonacciModified.java) | O(&#124;N&#124;) | O(&#124;1&#124;) | Medium | 45 |
-| 2 | [The Coin Change Problem](https://www.hackerrank.com/challenges/coin-change) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerRank/Algorithms/Dynamic%20Programming/TheCoinChangeProblem.java) | O(&#124;total*coins&#124;) | O(&#124;total&#124;) | Hard | 60 |
+| 2 | [The Coin Change Problem](https://www.hackerrank.com/challenges/coin-change) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerRank/Algorithms/Dynamic%20Programming/TheCoinChangeProblemDP.java) | O(&#124;total*coins&#124;) | O(&#124;total&#124;) | Hard | 60 |
 
 ## HackerEarth
 | #   | Problem | Solution | Time | Space |
