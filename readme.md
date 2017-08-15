@@ -45,7 +45,8 @@ This repostitory contains code for following-
 | 6 | Radix Sort | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Sorting%20Algorithms/RadixSort.java) | | | |
 | 7 | Selection Sort | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/SelectionSort.java) | | | |
 | 8 | Merge Sort | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Sorting%20Algorithms/MergeSort.java) | O(&#124;N*log(N)&#124;) | O(&#124;N&#124;) | Stable |
-| 8 | Merge Sort Linked List| [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Sorting%20Algorithms/MergeSortLinkedList.java) | O(&#124;N*log(N)&#124;) | O(&#124;N&#124;) | Stable |
+| 9 | Merge Sort Linked List| [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Sorting%20Algorithms/MergeSortLinkedList.java) | O(&#124;N*log(N)&#124;) | O(&#124;N&#124;) | Stable |
+| 10 | Iterative Merge Sort | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Sorting%20Algorithms/IterativeMergeSort.java) | O(&#124;N*log(N)&#124;) | O(&#124;N&#124;) | Stable |
 
 #### Basic Recursion Algorithms
 | #   | Title | Solution | Time | Space | Notes |
