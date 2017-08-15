@@ -47,6 +47,7 @@ This repostitory contains code for following-
 | 8 | Merge Sort | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Sorting%20Algorithms/MergeSort.java) | O(&#124;N*log(N)&#124;) | O(&#124;N&#124;) | Stable |
 | 9 | Merge Sort Linked List| [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Sorting%20Algorithms/MergeSortLinkedList.java) | O(&#124;N*log(N)&#124;) | O(&#124;N&#124;) | Stable |
 | 10 | Iterative Merge Sort | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Sorting%20Algorithms/IterativeMergeSort.java) | O(&#124;N*log(N)&#124;) | O(&#124;N&#124;) | Stable |
+| 11 | Quick Sort | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Sorting%20Algorithms/QuickSort.java) | O(&#124;N*log(N)&#124;) | O(&#124;1&#124;) | In-Place, Stable |
 
 #### Basic Recursion Algorithms
 | #   | Title | Solution | Time | Space | Notes |
@@ -65,6 +66,7 @@ This repostitory contains code for following-
 | 3 | [Sum Of Digit Is Palindrome Or Not](http://practice.geeksforgeeks.org/problems/sum-of-digit-is-pallindrome-or-not/0) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/GeeksForGeeks/Algorithms/SumOfDigitIsPalindromeOrNot.java) | | | |
 | 4 | [X Total Shapes](http://practice.geeksforgeeks.org/problems/x-total-shapes/0) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/GeeksForGeeks/Algorithms/XTotalShapes.java) | | | |
 | 5 | [Floyd Tortoise and Hare](http://www.geeksforgeeks.org/detect-loop-in-a-linked-list/) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/GeeksForGeeks/Algorithms/FloydTortoiseAndHare.java) | O(&#124;N&#124;) | | O(&#124;1&#124;) |
+| 6 | [Sort The Array](http://practice.geeksforgeeks.org/problems/sort-the-array/0) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/GeeksForGeeks/Algorithms/SortTheArray.java) | O(&#124;N*log(N)&#124;) | | O(&#124;1&#124;) |
 
 
 ## HackerRank
