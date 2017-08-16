@@ -48,6 +48,7 @@ This repostitory contains code for following-
 | 9 | Merge Sort Linked List| [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Sorting%20Algorithms/MergeSortLinkedList.java) | O(&#124;N*log(N)&#124;) | O(&#124;N&#124;) | Stable |
 | 10 | Iterative Merge Sort | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Sorting%20Algorithms/IterativeMergeSort.java) | O(&#124;N*log(N)&#124;) | O(&#124;N&#124;) | Stable |
 | 11 | Quick Sort | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Sorting%20Algorithms/QuickSort.java) | O(&#124;N*log(N)&#124;) | O(&#124;1&#124;) | In-Place, Stable |
+| 12 | Iterative Quick Sort | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Sorting%20Algorithms/IterativeQuickSort.java) | O(&#124;N*log(N)&#124;) | O(&#124;1&#124;) | In-Place, Stable |
 
 #### Basic Recursion Algorithms
 | #   | Title | Solution | Time | Space | Notes |
