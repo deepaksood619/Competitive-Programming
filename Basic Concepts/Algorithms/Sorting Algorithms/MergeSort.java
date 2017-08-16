@@ -20,6 +20,8 @@ Sorting In Place: No in a typical implementation
 
 Stable: Yes
 
+ Merge sort is generally considered better when data is huge and stored in external storage.
+
 */
 
 class MergeSort {

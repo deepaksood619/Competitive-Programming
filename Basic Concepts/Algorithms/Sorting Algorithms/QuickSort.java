@@ -24,10 +24,13 @@ quickSort(arr[], low, high)
     }
 }
 
-Time Complexity - O(N*log(N))
+Worst Case Time Complexity - O(N^2)
+Average Time Complexity - W(N*log(N))
 Space Complexity - O(1)
 In-place - yes
 Stable - yes
+
+QuickSort is faster in practice, because its inner loop can be efficiently implemented on most architectures, and in most real-world data. QuickSort can be implemented in different ways by changing the choice of pivot, so that the worst case rarely occurs for a given type of data. However, merge sort is generally considered better when data is huge and stored in external storage.
 
 */
 
