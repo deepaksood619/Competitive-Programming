@@ -6,6 +6,8 @@ This repostitory contains code for following-
       1. [Basic Graph Algorithms](https://github.com/deepaksood619/Competitive-Programming#basic-graph-algorithms)
       2. [Basic Sorting Algorithms](https://github.com/deepaksood619/Competitive-Programming#basic-sorting-algorithms)
 	  3. [Basic Recursion Algorithms](https://github.com/deepaksood619/Competitive-Programming#basic-recursion-algorithms)
+	  4. [Basic Dynamic Programming Algorithms](https://github.com/deepaksood619/Competitive-Programming#basic-dynamic-programming-algorithms)
+	  5. [Basic Greedy Algorithms](https://github.com/deepaksood619/Competitive-Programming#basic-greedy-algorithms)
 2. [GeeksForGeeks](http://www.geeksforgeeks.org/)
    1. [Algorithms](https://github.com/deepaksood619/Competitive-Programming#geeks-for-geeks-algorithms)
 3. [HackerRank](https://www.hackerrank.com/)
@@ -23,6 +25,7 @@ This repostitory contains code for following-
 
 # Problems - Solutions
 ## Basic Concepts
+
 #### Basic Graph Algorithms
 
 | #   | Title | Solution | Time | Space
@@ -57,6 +60,18 @@ This repostitory contains code for following-
 | 2 | [Permutation of a given String](http://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Recursion/PermutationsOfAGivenString.java) | | | |
 | 3 | [Selection Sort Recursive](http://www.geeksforgeeks.org/practice-questions-for-recursion/) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Recursion/SelectionSortRecursive.java) | | | |
 
+#### Basic Dynamic Programming Algorithms
+| #   | Title | Solution | Time | Space | Notes |
+|:---:|------ |:--------:|:----:|:-----:|:-----:|
+| 1 | Fibonacci Number DP | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Dynamic%20Programming/FibonacciNumberDP.java) | O(&#124;N&#124;) | O(&#124;N&#124;) | |
+| 2 | Fibonacci Number with Recursion | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Dynamic%20Programming/FibonacciNumberWithRecursion.java) | O(&#124;2^N&#124;) | O(&#124;N&#124;) | |
+| 3 | Fibonacci Series with Recursion | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Dynamic%20Programming/FibonacciSeriesWithRecursion.java) | O(&#124;N&#124;) | O(&#124;1&#124;) | |
+| 4 | Fibonacci Series without Recursion | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Dynamic%20Programming/FibonacciSeriesWithoutRecursion.java) | O(&#124;N&#124;) | O(&#124;1&#124;) | |
+
+#### Basic Greedy Algorithms
+| #   | Title | Solution | Time | Space | Notes |
+|:---:|------ |:--------:|:----:|:-----:|:-----:|
+| 1 | Sorted Activity Selection Problem | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Greedy%20Algorithms/SortedActivitySelectionProblem.java) | O(&#124;N&#124;) | O(&#124;1&#124;) | |
 
 
 ## Geeks For Geeks Algorithms

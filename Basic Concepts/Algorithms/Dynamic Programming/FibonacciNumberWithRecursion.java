@@ -10,7 +10,7 @@ There are two ways to write the fibonacci series program in java:
 	
 	Starting element = 0
 	
-	Time Complexity - T(n) = T(n-1) + T(n-2) which is exponential.
+	Time Complexity - T(n) = T(n-1) + T(n-2) which is exponential. - O(2^N)
 	Space Complexity - O(n) if we consider the function call stack size, otherwise O(1).
 */
 
