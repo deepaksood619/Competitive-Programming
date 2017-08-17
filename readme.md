@@ -72,6 +72,7 @@ This repostitory contains code for following-
 | #   | Title | Solution | Time | Space | Notes |
 |:---:|------ |:--------:|:----:|:-----:|:-----:|
 | 1 | Sorted Activity Selection Problem | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Greedy%20Algorithms/SortedActivitySelectionProblem.java) | O(&#124;N&#124;) | O(&#124;1&#124;) | |
+| 2 | Unsorted Activity Selection Problem | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Greedy%20Algorithms/UnsortedActivitySelectionProblem.java) | O(&#124;N*log(N)&#124;) | O(&#124;1&#124;) | |
 
 
 ## Geeks For Geeks Algorithms

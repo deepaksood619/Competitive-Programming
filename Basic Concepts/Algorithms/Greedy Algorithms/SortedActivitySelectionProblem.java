@@ -32,7 +32,7 @@ class ActivitySelectionProblem {
 			activityList.add(new StartFinish(start[0], finish[0]));
 		}
 
-		for(int i = 0; i < finish.length; i++) {
+		for(int i = 1; i < finish.length; i++) {
 			if(start[i] >= finish[last_finish_index]) {
 				indexList.add(i);
 				activityList.add(new StartFinish(start[i], finish[i]));
