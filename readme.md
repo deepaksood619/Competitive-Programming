@@ -84,6 +84,7 @@ This repostitory contains code for following-
 | 4 | [X Total Shapes](http://practice.geeksforgeeks.org/problems/x-total-shapes/0) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/GeeksForGeeks/Algorithms/XTotalShapes.java) | | | |
 | 5 | [Floyd Tortoise and Hare](http://www.geeksforgeeks.org/detect-loop-in-a-linked-list/) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/GeeksForGeeks/Algorithms/FloydTortoiseAndHare.java) | O(&#124;N&#124;) | | O(&#124;1&#124;) |
 | 6 | [Sort The Array](http://practice.geeksforgeeks.org/problems/sort-the-array/0) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/GeeksForGeeks/Algorithms/SortTheArray.java) | O(&#124;N*log(N)&#124;) | | O(&#124;1&#124;) |
+| 7 | [N Meetings in One Room](http://practice.geeksforgeeks.org/problems/n-meetings-in-one-room/0) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/GeeksForGeeks/Algorithms/NMeetingsInOneRoom.java) | O(&#124;N*log(N)&#124;) | | O(&#124;N&#124;) |
 
 
 ## HackerRank
