@@ -33,7 +33,7 @@ import java.util.ListIterator;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-class GFG {
+class NodesAtEvenDistance {
     
     public static void main(String[] args) {
          Scanner s = new Scanner(System.in);

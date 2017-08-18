@@ -120,12 +120,14 @@ This repostitory contains code for following-
 | 2 | [The Coin Change Problem](https://www.hackerrank.com/challenges/coin-change) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerRank/Algorithms/Dynamic%20Programming/TheCoinChangeProblemDP.java) | O(&#124;total*coins&#124;) | O(&#124;total&#124;) | Hard | 60 |
 
 ## HackerEarth
-| #   | Problem | Solution | Time | Space |
-|:---:|-------- |:--------:|:----:|:-----:|
+| #   | Problem | Solution | Time | Space | Points | Notes |
+|:---:|-------- |:--------:|:----:|:-----:|:------:|:------|
 | 1 | Alex And Priority Queues | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerEarth/AlexAndPriorityQueues.java) | | |
 | 2 | Alex And Requests | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerEarth/AlexAndRequests.java) | | |
 | 3 | Disconnected Graph | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerEarth/DisconnectedGraph.java) | | |
 | 4 | Sum of Subsets | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerEarth/SumOfSubsets.java) | | |
+| 5 | [RhezoAndBigPowers](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/rhezo-and-big-powers-1/description/) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerEarth/RhezoAndBigPowers.java) | | | 30 | Used BigInteger build in modPow() function |
+| 6 | [Roy And Trains](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/roy-and-trains-2/) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerEarth/RoyAndTrains.java) | | | 20 | |
 
 ---
 
