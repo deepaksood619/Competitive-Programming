@@ -8,6 +8,7 @@ This repostitory contains code for following-
 	  3. [Basic Recursion Algorithms](https://github.com/deepaksood619/Competitive-Programming#basic-recursion-algorithms)
 	  4. [Basic Dynamic Programming Algorithms](https://github.com/deepaksood619/Competitive-Programming#basic-dynamic-programming-algorithms)
 	  5. [Basic Greedy Algorithms](https://github.com/deepaksood619/Competitive-Programming#basic-greedy-algorithms)
+    2. [Basic Data Structures](https://github.com/deepaksood619/Competitive-Programming#basic-data-structures)
 2. [GeeksForGeeks](http://www.geeksforgeeks.org/)
    1. [Algorithms](https://github.com/deepaksood619/Competitive-Programming#geeks-for-geeks-algorithms)
 3. [HackerRank](https://www.hackerrank.com/)
@@ -74,6 +75,11 @@ This repostitory contains code for following-
 | 1 | Sorted Activity Selection Problem | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Greedy%20Algorithms/SortedActivitySelectionProblem.java) | O(&#124;N&#124;) | O(&#124;1&#124;) | |
 | 2 | Unsorted Activity Selection Problem | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Greedy%20Algorithms/UnsortedActivitySelectionProblem.java) | O(&#124;N*log(N)&#124;) | O(&#124;1&#124;) | |
 
+### Basic Data Structures
+| #   | Title | Solution | Time | Space | Notes |
+|:---:|------ |:--------:|:----:|:-----:|:-----:|
+| 1 | Disjoint Set | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Data%20Structures/DisjointSet.java) | O(&#124;log(N)&#124;) | O(&#124;N&#124;) | Using Path Compression and Union by Rank |
+
 
 ## Geeks For Geeks Algorithms
 | #   | Problem | Solution | Time | Space
@@ -107,13 +113,13 @@ This repostitory contains code for following-
 | 7 | [Anagram](https://www.hackerrank.com/challenges/anagram) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerRank/Algorithms/Strings/Anagram.java) | O(&#124;N&#124;) | O(&#124;1&#124;) | Easy | 25 |
 | 8 | [Two Strings](https://www.hackerrank.com/challenges/two-strings) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerRank/Algorithms/Strings/TwoStrings.java) | O(&#124;N&#124;) | O(&#124;1&#124;) | Easy | 25 |
 
-### HackerRank Graph Theory
+#### HackerRank Graph Theory
 | #   | Problem | Solution | Time | Space | Difficulty | Points
 |:---:|-------- |:--------:|:----:|:-----:|:----------:|:------|
 | 1 | [Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerRank/Algorithms/Graph%20Theory/RoadsAndLibraries.java) | O(&#124;V&#124;) | O(&#124;V&#124;) | Medium | 30 |
 | 2 | [Journey to the Moon](https://www.hackerrank.com/challenges/journey-to-the-moon) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerRank/Algorithms/Graph%20Theory/JourneyToTheMoon.java) | O(&#124;V + E&#124;) | O(&#124;V&#124;) | Medium | 50 |
 
-### HackerRank Dynamic Programming
+#### HackerRank Dynamic Programming
 | #   | Problem | Solution | Time | Space | Difficulty | Points
 |:---:|-------- |:--------:|:----:|:-----:|:----------:|:------|
 | 1 | [Fibonacci Modified](https://www.hackerrank.com/challenges/fibonacci-modified) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerRank/Algorithms/Dynamic%20Programming/FibonacciModified.java) | O(&#124;N&#124;) | O(&#124;1&#124;) | Medium | 45 |
