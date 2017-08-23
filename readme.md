@@ -37,7 +37,7 @@ This repostitory contains code for following-
 | 4 | BFS Directed | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Graph%20Algorithms/BFSDirected.java) | | | |
 | 5 | BFS Undirected | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Graph%20Algorithms/BFSUndirected.java) | | | |
 | 6 | [Connected Components Undirected Graph](http://www.geeksforgeeks.org/connected-components-in-an-undirected-graph/) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Graph%20Algorithms/ConnectedComponentsUndirectedGraph.java) | O(&#124;V + E&#124;) | O(&#124;V&#124;) |
-| 7 | [Detect Cycle in Undirected Graph using Union and Find](http://www.geeksforgeeks.org/?p=26350) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Graph%20Algorithms/DetectCycleInUndirectedGraphUsingUnionFind.java | O(&#124;V * log(V)&#124;) | O(&#124;V + E&#124;) |
+| 7 | [Detect Cycle in Undirected Graph using Union and Find](http://www.geeksforgeeks.org/?p=26350) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Graph%20Algorithms/DetectCycleInUndirectedGraphUsingUnionFind.java) | O(&#124;V * log(V)&#124;) | O(&#124;V + E&#124;) |
       
 #### Basic Sorting Algorithms
 | #   | Title | Solution | Time | Space | Notes |
