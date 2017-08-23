@@ -37,6 +37,7 @@ This repostitory contains code for following-
 | 4 | BFS Directed | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Graph%20Algorithms/BFSDirected.java) | | | |
 | 5 | BFS Undirected | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Graph%20Algorithms/BFSUndirected.java) | | | |
 | 6 | [Connected Components Undirected Graph](http://www.geeksforgeeks.org/connected-components-in-an-undirected-graph/) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Graph%20Algorithms/ConnectedComponentsUndirectedGraph.java) | O(&#124;V + E&#124;) | O(&#124;V&#124;) |
+| 7 | [Detect Cycle in Undirected Graph using Union and Find](http://www.geeksforgeeks.org/?p=26350) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Graph%20Algorithms/DetectCycleInUndirectedGraphUsingUnionFind.java | O(&#124;V * log(V)&#124;) | O(&#124;V + E&#124;) |
       
 #### Basic Sorting Algorithms
 | #   | Title | Solution | Time | Space | Notes |
@@ -74,6 +75,7 @@ This repostitory contains code for following-
 |:---:|------ |:--------:|:----:|:-----:|:-----:|
 | 1 | Sorted Activity Selection Problem | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Greedy%20Algorithms/SortedActivitySelectionProblem.java) | O(&#124;N&#124;) | O(&#124;1&#124;) | |
 | 2 | Unsorted Activity Selection Problem | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Greedy%20Algorithms/UnsortedActivitySelectionProblem.java) | O(&#124;N*log(N)&#124;) | O(&#124;1&#124;) | |
+| 3 | Kruskal Minimum Spanning Tree | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Greedy%20Algorithms/KruskalMST.java) | O(&#124;E*log(E)&#124;) or O(&#124;E*log(V)&#124;) | O(&#124;V + E&#124;) | |
 
 ### Basic Data Structures
 | #   | Title | Solution | Time | Space | Notes |
@@ -91,6 +93,7 @@ This repostitory contains code for following-
 | 5 | [Floyd Tortoise and Hare](http://www.geeksforgeeks.org/detect-loop-in-a-linked-list/) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/GeeksForGeeks/Algorithms/FloydTortoiseAndHare.java) | O(&#124;N&#124;) | | O(&#124;1&#124;) |
 | 6 | [Sort The Array](http://practice.geeksforgeeks.org/problems/sort-the-array/0) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/GeeksForGeeks/Algorithms/SortTheArray.java) | O(&#124;N*log(N)&#124;) | | O(&#124;1&#124;) |
 | 7 | [N Meetings in One Room](http://practice.geeksforgeeks.org/problems/n-meetings-in-one-room/0) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/GeeksForGeeks/Algorithms/NMeetingsInOneRoom.java) | O(&#124;N*log(N)&#124;) | | O(&#124;N&#124;) |
+| 8 | [Detect Cycle in Directed Graph](http://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/GeeksForGeeks/Algorithms/DetectCycleInDirectedGraph.java) | O(&#124;V + E&#124;) | | O(&#124;V + E&#124;) |
 
 
 ## HackerRank

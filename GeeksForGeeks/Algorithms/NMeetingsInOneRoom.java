@@ -66,3 +66,61 @@ class NMeetingsInOneRoom {
 	    }
 	}
 }
+
+/*
+Solution using class as an object (Meeting)
+
+class Test {
+	public static void main (String[] args) {
+		Scanner in = new Scanner(System.in);
+		int T = in.nextInt();
+		
+		while(T-- > 0) {
+		    int n = in.nextInt();
+            Meeting[] arr = new Meeting[n];
+            for(int i = 0; i < n; i++) {
+                arr[i] = new Meeting();
+            }
+		    for(int i = 0; i < n; i++) {
+                arr[i].start = in.nextInt();
+                arr[i].index = i;
+		    }
+		    for(int i = 0; i < n; i++) {
+                arr[i].finish = in.nextInt();                        
+            }
+            
+            for(int i = 0; i < n; i++) {
+                System.out.println(arr[i].start + " " + arr[i].finish);
+            }
+
+		    Arrays.sort(arr, new Comparator<Meeting>() {
+                @Override
+                public int compare(Meeting a, Meeting b) {
+                    return Integer.compare(a.finish, b.finish);
+                }
+            });
+
+            for(int i = 0; i < n; i++) {
+                System.out.println(arr[i].start + " " + arr[i].finish);
+            }
+
+            int last_index = 0;
+            System.out.print(arr[0].index+1 + " ");
+            for(int i = 1; i < n-1; i++) {
+                if(arr[i].start >= arr[last_index].finish) {
+                    System.out.print(arr[i].index+1 + " ");
+                    last_index = i;
+                }
+            }
+            System.out.println();
+		}
+	}
+}
+
+class Meeting {
+    int start;
+    int finish;
+    int index;
+}
+
+*/
