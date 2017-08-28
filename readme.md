@@ -137,6 +137,7 @@ This repostitory contains code for following-
 | 4 | Sum of Subsets | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerEarth/SumOfSubsets.java) | | |
 | 5 | [RhezoAndBigPowers](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/rhezo-and-big-powers-1/description/) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerEarth/RhezoAndBigPowers.java) | | | 30 | Used BigInteger build in modPow() function |
 | 6 | [Roy And Trains](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/roy-and-trains-2/) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerEarth/RoyAndTrains.java) | | | 20 | |
+| 6 | [Roy And Wobbly Numbers](https://www.hackerearth.com/problem/algorithm/roy-and-wobbly-numbers/description/) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerEarth/RoyAndWobblyNumbers.java) | | | 20 | |
 
 ---
 
