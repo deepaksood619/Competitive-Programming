@@ -139,6 +139,7 @@ This repostitory contains code for following-
 | 6 | [Roy And Trains](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/roy-and-trains-2/) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerEarth/RoyAndTrains.java) | | | 20 | |
 | 6 | [Roy And Wobbly Numbers](https://www.hackerearth.com/problem/algorithm/roy-and-wobbly-numbers/description/) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerEarth/RoyAndWobblyNumbers.java) | | | 20 | |
 | 7 | [Sherlock And Dates](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/sherlock-and-dates/description/) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerEarth/SherlockAndDates.java) | | | 20 | |
+| 7 | [The Best Player](https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/practice-problems/algorithm/the-best-player-1/) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerEarth/TheBestPlayer.java) | | | 20 | |
 
 ---
 
