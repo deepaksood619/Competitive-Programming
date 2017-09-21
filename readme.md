@@ -8,6 +8,7 @@ This repostitory contains code for following-
 	  3. [Basic Recursion Algorithms](https://github.com/deepaksood619/Competitive-Programming#basic-recursion-algorithms)
 	  4. [Basic Dynamic Programming Algorithms](https://github.com/deepaksood619/Competitive-Programming#basic-dynamic-programming-algorithms)
 	  5. [Basic Greedy Algorithms](https://github.com/deepaksood619/Competitive-Programming#basic-greedy-algorithms)
+      6. [Basic Mathematics](https://github.com/deepaksood619/Competitive-Programming#basic-mathematics)
     2. [Basic Data Structures](https://github.com/deepaksood619/Competitive-Programming#basic-data-structures)
 2. [GeeksForGeeks](http://www.geeksforgeeks.org/)
    1. [Algorithms](https://github.com/deepaksood619/Competitive-Programming#geeks-for-geeks-algorithms)
@@ -78,6 +79,12 @@ This repostitory contains code for following-
 | 1 | Sorted Activity Selection Problem | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Greedy%20Algorithms/SortedActivitySelectionProblem.java) | O(&#124;N&#124;) | O(&#124;1&#124;) | |
 | 2 | Unsorted Activity Selection Problem | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Greedy%20Algorithms/UnsortedActivitySelectionProblem.java) | O(&#124;N*log(N)&#124;) | O(&#124;1&#124;) | |
 | 3 | Kruskal Minimum Spanning Tree | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Greedy%20Algorithms/KruskalMST.java) | O(&#124;E*log(E)&#124;) or O(&#124;E*log(V)&#124;) | O(&#124;V + E&#124;) | |
+
+#### Basic Mathematics
+| #   | Title | Solution | Time | Space | Notes |
+|:---:|------ |:--------:|:----:|:-----:|:-----:|
+| 1 | Prime Factors | [c++](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Mathematics/PrimeFactors.cpp) | O(&#124;log(N)&#124;) | O(&#124;1&#124;) | |
+| 2 | Sieve of Eratosthenes | [c++](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Mathematics/SieveOfEratosthenes.cpp) | O(&#124;N*log(log(N))&#124;) | O(&#124;N&#124;) | |
 
 ### Basic Data Structures
 | #   | Title | Solution | Time | Space | Notes |
