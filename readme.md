@@ -69,7 +69,8 @@ This repostitory contains code for following-
 | 2 | Fibonacci Number with Recursion | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Dynamic%20Programming/FibonacciNumberWithRecursion.java) | O(&#124;2^N&#124;) | O(&#124;N&#124;) | |
 | 3 | Fibonacci Series with Recursion | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Dynamic%20Programming/FibonacciSeriesWithRecursion.java) | O(&#124;N&#124;) | O(&#124;1&#124;) | |
 | 4 | Fibonacci Series without Recursion | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Dynamic%20Programming/FibonacciSeriesWithoutRecursion.java) | O(&#124;N&#124;) | O(&#124;1&#124;) | |
-| 4 | Edit/Levenshtein Distance | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Dynamic%20Programming/EditDistance.java) | O(&#124;M*N&#124;) | O(&#124;M*N&#124;) | |
+| 5 | Edit/Levenshtein Distance | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Dynamic%20Programming/EditDistance.java) | O(&#124;M*N&#124;) | O(&#124;M*N&#124;) | |
+| 6 | Min Cost Path | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/Basic%20Concepts/Algorithms/Dynamic%20Programming/MinCostPath.java) | O(&#124;M*N&#124;) | O(&#124;M*N&#124;) | |
 
 #### Basic Greedy Algorithms
 | #   | Title | Solution | Time | Space | Notes |
