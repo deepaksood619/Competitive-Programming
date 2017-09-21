@@ -152,7 +152,10 @@ This repostitory contains code for following-
 | 6 | [Roy And Trains](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/roy-and-trains-2/) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerEarth/RoyAndTrains.java) | | | 20 | |
 | 6 | [Roy And Wobbly Numbers](https://www.hackerearth.com/problem/algorithm/roy-and-wobbly-numbers/description/) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerEarth/RoyAndWobblyNumbers.java) | | | 20 | |
 | 7 | [Sherlock And Dates](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/sherlock-and-dates/description/) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerEarth/SherlockAndDates.java) | | | 20 | |
-| 7 | [The Best Player](https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/practice-problems/algorithm/the-best-player-1/) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerEarth/TheBestPlayer.java) | | | 20 | |
+| 8 | [The Best Player](https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/practice-problems/algorithm/the-best-player-1/) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerEarth/TheBestPlayer.java) | | | 20 | |
+| 9 | [Crazy Matrix](https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/crazy-matrix/) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerEarth/CrazyMatrix.java) | | | 30 | |
+| 10 | [Crushing Violence](https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/crushing-violence/) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerEarth/CrushingViolence.java) | | | 20 | |
+| 10 | [Fizz Buzz](https://www.hackerearth.com/problem/algorithm/fizzbuzz/) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerEarth/FizzBuzzTest.java) [C++](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerEarth/FizzBuzzTest.cpp) | | | 20 | |
 
 ---
 
