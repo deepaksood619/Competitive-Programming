@@ -1,4 +1,13 @@
-## Competitive-Programming Repository
+<p align="center"> 
+    <h2>Competitive-Programming Repository</h2>
+</p>
+
+<p align="center">
+	<img src="https://img.shields.io/badge/Problems%20Solved-73-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Language-Java/C++">
+	<img src="https://img.shields.io/badge/Latest%20Update-21/09/2017-brightgreen.svg">
+  <img src="http://forthebadge.com/images/badges/built-with-love.svg">
+</p>
 
 This repostitory contains code for following-
 1. Basic Concepts -
