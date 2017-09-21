@@ -35,7 +35,7 @@ Overlapping Subproblems
  - Tabulation (Bottom Up approach)
 Optimal Substructure
 
-Solved using Tabulation method (Bottom Up approach)
+Solved using Memoization method (Top Down approach)
 
 Time Complexity: O(m x n)
 Auxiliary Space: O(m x n)
