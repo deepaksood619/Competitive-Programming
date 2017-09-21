@@ -1,13 +1,8 @@
-<p align="center"> 
-    <h2>Competitive-Programming Repository</h2>
-</p>
+## Competitive-Programming Repository
 
-<p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-73-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Language-Java/C++">
-	<img src="https://img.shields.io/badge/Latest%20Update-21/09/2017-brightgreen.svg">
-  <img src="http://forthebadge.com/images/badges/built-with-love.svg">
-</p>
+![73 problems solved](https://img.shields.io/badge/Problems%20Solved-73-brightgreen.svg "And counting")
+![C++ / Java](https://img.shields.io/badge/Language-Java/C++-orange.svg "And learning")
+![21 Sep 2017](https://img.shields.io/badge/Latest%20Update-21/09/2017-brightgreen.svg "And working")
 
 This repostitory contains code for following-
 1. Basic Concepts -
@@ -180,3 +175,5 @@ Follow my progress -
 4. [Code Chef](https://www.codechef.com/users/deepaksood619)
 5. [Leet Code](https://leetcode.com/deepaksood619/)
 3. [Linkedin](https://linkedin.com/in/deepaksood619)
+
+![Love](http://forthebadge.com/images/badges/built-with-love.svg "Made with Love")
