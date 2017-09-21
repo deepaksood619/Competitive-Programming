@@ -104,6 +104,9 @@ This repostitory contains code for following-
 | 7 | [N Meetings in One Room](http://practice.geeksforgeeks.org/problems/n-meetings-in-one-room/0) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/GeeksForGeeks/Algorithms/NMeetingsInOneRoom.java) | O(&#124;N*log(N)&#124;) | | O(&#124;N&#124;) |
 | 8 | [Detect Cycle in Directed Graph](http://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/GeeksForGeeks/Algorithms/DetectCycleInDirectedGraph.java) | O(&#124;V + E&#124;) | | O(&#124;V + E&#124;) |
 | 9 | [Edit Distance](http://practice.geeksforgeeks.org/problems/edit-distance/0) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/GeeksForGeeks/Algorithms/EditDistance.java) | O(&#124;M*N&#124;) | | O(&#124;M*N&#124;) |
+| 10 | [Highest Prime](http://www.geeksforgeeks.org/find-highest-occurring-digit-prime-numbers-range/) | [c++](https://github.com/deepaksood619/Competitive-Programming/blob/master/GeeksForGeeks/Algorithms/HighestPrime.cpp) | | | |
+| 11 | [Largest Prime Factor](http://practice.geeksforgeeks.org/problems/largest-prime-factor/0) | [c++](https://github.com/deepaksood619/Competitive-Programming/blob/master/GeeksForGeeks/Algorithms/LargestPrimeFactor.cpp) | | | |
+| 12 | [Path in Matrix](http://practice.geeksforgeeks.org/problems/path-in-matrix/0) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/GeeksForGeeks/Algorithms/PathInMatrix.java) | | | |
 
 
 ## HackerRank
