@@ -1,8 +1,8 @@
 ## Competitive-Programming Repository
 
-![73 problems solved](https://img.shields.io/badge/Problems%20Solved-73-brightgreen.svg "And counting")
+![74 problems solved](https://img.shields.io/badge/Problems%20Solved-74-brightgreen.svg "And counting")
 ![C++ / Java](https://img.shields.io/badge/Language-Java/C++-orange.svg "And learning")
-![21 Sep 2017](https://img.shields.io/badge/Latest%20Update-21/09/2017-brightgreen.svg "And working")
+![22 Sep 2017](https://img.shields.io/badge/Latest%20Update-21/09/2017-brightgreen.svg "And working")
 
 This repostitory contains code for following-
 1. Basic Concepts -
@@ -111,6 +111,7 @@ This repostitory contains code for following-
 | 10 | [Highest Prime](http://www.geeksforgeeks.org/find-highest-occurring-digit-prime-numbers-range/) | [c++](https://github.com/deepaksood619/Competitive-Programming/blob/master/GeeksForGeeks/Algorithms/HighestPrime.cpp) | | | |
 | 11 | [Largest Prime Factor](http://practice.geeksforgeeks.org/problems/largest-prime-factor/0) | [c++](https://github.com/deepaksood619/Competitive-Programming/blob/master/GeeksForGeeks/Algorithms/LargestPrimeFactor.cpp) | | | |
 | 12 | [Path in Matrix](http://practice.geeksforgeeks.org/problems/path-in-matrix/0) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/GeeksForGeeks/Algorithms/PathInMatrix.java) | | | |
+| 13 | [Least Prime Factor](http://practice.geeksforgeeks.org/problems/least-prime-factor/0) | [C++](https://github.com/deepaksood619/Competitive-Programming/blob/master/GeeksForGeeks/Algorithms/LeastPrimeFactor.cpp) | | | |
 
 
 ## HackerRank
