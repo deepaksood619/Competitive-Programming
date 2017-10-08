@@ -1,8 +1,8 @@
 ## Competitive-Programming Repository
 
 ![74 problems solved](https://img.shields.io/badge/Problems%20Solved-74-brightgreen.svg "And counting")
-![C++ / Java](https://img.shields.io/badge/Language-Java/C++-orange.svg "And learning")
-![22 Sep 2017](https://img.shields.io/badge/Latest%20Update-21/09/2017-brightgreen.svg "And working")
+![C / C++ / Java](https://img.shields.io/badge/Language-C/C++/Java-orange.svg "And learning")
+![09 Oct 2017](https://img.shields.io/badge/Latest%20Update-09/10/2017-brightgreen.svg "And working")
 
 This repostitory contains code for following-
 1. Basic Concepts -
@@ -24,6 +24,7 @@ This repostitory contains code for following-
 	  4. [HackerRank Dynamic Programming](https://github.com/deepaksood619/Competitive-Programming#hackerrank-dynamic-programming)
 4. [HackerEarth](https://www.hackerearth.com/)
 	1. [HackerEarth](https://github.com/deepaksood619/Competitive-Programming#hackerearth)
+  2. [CodeMonk](https://github.com/deepaksood619/Competitive-Programming#hackerearth-codemonk)
 5. [CodeChef](https://www.codechef.com/)
 6. [LeetCode](https://leetcode.com/)
 
@@ -161,6 +162,10 @@ This repostitory contains code for following-
 | 9 | [Crazy Matrix](https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/crazy-matrix/) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerEarth/CrazyMatrix.java) | | | 30 | |
 | 10 | [Crushing Violence](https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/crushing-violence/) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerEarth/CrushingViolence.java) | | | 20 | |
 | 10 | [Fizz Buzz](https://www.hackerearth.com/problem/algorithm/fizzbuzz/) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerEarth/FizzBuzzTest.java) [C++](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerEarth/FizzBuzzTest.cpp) | | | 20 | |
+
+### HackerEarth CodeMonk
+1. [Basics of Input Output](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerEarth/CodeMonk/BasicsOfInputOutput)
+2. [BitManipulation](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerEarth/CodeMonk/BitManipulation)
 
 ---
 
