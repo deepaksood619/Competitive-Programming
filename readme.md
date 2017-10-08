@@ -173,9 +173,7 @@ This repostitory contains code for following-
 | #   | Problem | Solution | Time | Space | Points | Notes |
 |:---:|-------- |:--------:|:----:|:-----:|:------:|:------|
 | 1 | Find The String | java / python | | |
-| #   | Problem | Solution | Time | Space | Points | Notes |
-|:---:|-------- |:--------:|:----:|:-----:|:------:|:------|
-| 1 | Fredo and Two Strings | cpp / java | | |
+| 2 | Fredo and Two Strings | cpp / java | | |
 
 ---
 
