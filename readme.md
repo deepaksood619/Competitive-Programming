@@ -1,7 +1,7 @@
 ## Competitive-Programming Repository
 
 ![74 problems solved](https://img.shields.io/badge/Problems%20Solved-74-brightgreen.svg "And counting")
-![C / C++ / Java](https://img.shields.io/badge/Language-C/C++/Java-orange.svg "And learning")
+![C / C++ / Java / Python](https://img.shields.io/badge/Language-C/C++/Java/Python-orange.svg "And learning")
 ![09 Oct 2017](https://img.shields.io/badge/Latest%20Update-09/10/2017-brightgreen.svg "And working")
 
 This repostitory contains code for following-
@@ -25,6 +25,7 @@ This repostitory contains code for following-
 4. [HackerEarth](https://www.hackerearth.com/)
 	1. [HackerEarth](https://github.com/deepaksood619/Competitive-Programming#hackerearth)
   2. [CodeMonk](https://github.com/deepaksood619/Competitive-Programming#hackerearth-codemonk)
+  3. [HiringChallenges](https://github.com/deepaksood619/Competitive-Programming#hackerearth-hiring-challenges)
 5. [CodeChef](https://www.codechef.com/)
 6. [LeetCode](https://leetcode.com/)
 
@@ -166,6 +167,14 @@ This repostitory contains code for following-
 ### HackerEarth CodeMonk
 1. [Basics of Input Output](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerEarth/CodeMonk/BasicsOfInputOutput)
 2. [BitManipulation](https://github.com/deepaksood619/Competitive-Programming/blob/master/HackerEarth/CodeMonk/BitManipulation)
+
+### HackerEarth Hiring Challenges
+| #   | Problem | Solution | Time | Space | Points | Notes |
+|:---:|-------- |:--------:|:----:|:-----:|:------:|:------|
+| 1 | Find The String | java / python | | |
+| #   | Problem | Solution | Time | Space | Points | Notes |
+|:---:|-------- |:--------:|:----:|:-----:|:------:|:------|
+| 1 | Fredo and Two Strings | cpp / java | | |
 
 ---
 
