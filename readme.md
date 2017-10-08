@@ -1,6 +1,6 @@
 ## Competitive-Programming Repository
 
-![74 problems solved](https://img.shields.io/badge/Problems%20Solved-74-brightgreen.svg "And counting")
+![93 problems solved](https://img.shields.io/badge/Problems%20Solved-93-brightgreen.svg "And counting")
 ![C / C++ / Java / Python](https://img.shields.io/badge/Language-C/C++/Java/Python-orange.svg "And learning")
 ![09 Oct 2017](https://img.shields.io/badge/Latest%20Update-09/10/2017-brightgreen.svg "And working")
 
@@ -114,6 +114,7 @@ This repostitory contains code for following-
 | 11 | [Largest Prime Factor](http://practice.geeksforgeeks.org/problems/largest-prime-factor/0) | [c++](https://github.com/deepaksood619/Competitive-Programming/blob/master/GeeksForGeeks/Algorithms/LargestPrimeFactor.cpp) | | | |
 | 12 | [Path in Matrix](http://practice.geeksforgeeks.org/problems/path-in-matrix/0) | [java](https://github.com/deepaksood619/Competitive-Programming/blob/master/GeeksForGeeks/Algorithms/PathInMatrix.java) | | | |
 | 13 | [Least Prime Factor](http://practice.geeksforgeeks.org/problems/least-prime-factor/0) | [C++](https://github.com/deepaksood619/Competitive-Programming/blob/master/GeeksForGeeks/Algorithms/LeastPrimeFactor.cpp) | | | |
+| 14 | [Check for Subsequence](http://practice.geeksforgeeks.org/problems/least-prime-factor/0) | [C++](https://github.com/deepaksood619/Competitive-Programming/blob/master/GeeksForGeeks/Algorithms/CheckForSubsequence.cpp) | | | |
 
 
 ## HackerRank
