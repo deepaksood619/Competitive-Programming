@@ -177,11 +177,6 @@ This repostitory contains code for following-
 
 ---
 
-Save everything in your drive -
-[Google Drive](https://drive.google.com/drive/folders/0B1jHFoEHN0zfZV9ma2NfZEZjejg?usp=sharing)
-
----
-
 Follow my progress -
 1. [Hacker Rank](https://www.hackerrank.com/deepaksood619)
 2. [Geeks for Geeks](http://practice.geeksforgeeks.org/user-profile.php?user=Deepak%20Sood)
