@@ -61,5 +61,4 @@ class test {
             System.out.println(n + " " + one + " " + two + " " + doub);
         }
     }
-
 }
