@@ -24,8 +24,8 @@ This repostitory contains code for following-
 	  4. [HackerRank Dynamic Programming](https://github.com/deepaksood619/Competitive-Programming#hackerrank-dynamic-programming)
 4. [HackerEarth](https://www.hackerearth.com/)
 	1. [HackerEarth](https://github.com/deepaksood619/Competitive-Programming#hackerearth)
-  2. [CodeMonk](https://github.com/deepaksood619/Competitive-Programming#hackerearth-codemonk)
-  3. [HiringChallenges](https://github.com/deepaksood619/Competitive-Programming#hackerearth-hiring-challenges)
+  	2. [CodeMonk](https://github.com/deepaksood619/Competitive-Programming#hackerearth-codemonk)
+  	3. [HiringChallenges](https://github.com/deepaksood619/Competitive-Programming#hackerearth-hiring-challenges)
 5. [CodeChef](https://www.codechef.com/)
 6. [LeetCode](https://leetcode.com/)
 
@@ -173,14 +173,7 @@ This repostitory contains code for following-
 | #   | Problem | Solution | Time | Space | Points | Notes |
 |:---:|-------- |:--------:|:----:|:-----:|:------:|:------|
 | 1 | Find The String | java / python | | |
-| #   | Problem | Solution | Time | Space | Points | Notes |
-|:---:|-------- |:--------:|:----:|:-----:|:------:|:------|
-| 1 | Fredo and Two Strings | cpp / java | | |
-
----
-
-Save everything in your drive -
-[Google Drive](https://drive.google.com/drive/folders/0B1jHFoEHN0zfZV9ma2NfZEZjejg?usp=sharing)
+| 2 | Fredo and Two Strings | cpp / java | | |
 
 ---
 
