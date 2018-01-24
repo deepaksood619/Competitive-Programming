@@ -8,7 +8,7 @@
  *
  *  Purpose of the program : To find the solution to 8-puzzle problem using A* Search Algorithm
  *  Assingment link        : http://coursera.cs.princeton.edu/algs4/assignments/8puzzle.html
- *  Score                  : 100/100
+ *  Score                  : 90/100
 **********************************************************************************************************************/
 import java.util.Comparator;
 
